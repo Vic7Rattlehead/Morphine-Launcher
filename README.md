@@ -21,7 +21,8 @@ Morphine Launcher открывает двери для творчества!
               Аддоны нужно помещать в папку Addons по пути к игре. Вы можете получить доступ к пути через Лаунчер, используя три точки в главном меню.
 
 Автор: Vic Rattlehead
-
+Телеграм канал: https://t.me/REAL_Peace_Vic
+Бусти: https://boosty.to/eyeteam
 
 
 ENG:
@@ -47,6 +48,8 @@ FAQ:
               Addons need to be placed in the Addons folder in the game path. You can access the path through the Launcher by using the three dots in the main menu
 
 Author: Vic Rattlehead
+Telegram Channel: https://t.me/REAL_Peace_Vic
+Boosty: https://boosty.to/eyeteam
 
 
 
